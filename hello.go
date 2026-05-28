@@ -1,9 +1,0 @@
-package main
-
-import "fmt"
-
-func main() {
-	sum := 32 + 299
-	fmt.Println(sum)
-	fmt.Println("Hello, Hexlet")
-}
